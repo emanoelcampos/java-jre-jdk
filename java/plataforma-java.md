@@ -20,6 +20,3 @@ image here
 - Sandbox
 - Otimizações
 - JIT Commands
-
-#### JDK = JRE + ferramentas de desenvolvimento
-#### JRE = JVM + bibliotecas
