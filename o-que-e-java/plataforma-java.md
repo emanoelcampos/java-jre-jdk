@@ -12,7 +12,11 @@
 ## Máquina Virtual Java
 A motivação por trás da criação do Java foi permitir o desenvolvimento de códigos capazes de serem executados em diversos dispositivos sem a necessidade de recompilá-los:
 
-image here
+<div align="center">
+<img src="https://github.com/emanoelcampos/java-jre-jdk/assets/68448029/ef3b2393-2176-423f-8a00-ae14aca8e7f4" width="500" >
+ </div>
+
+
 
 - Multi-plataforma
 - Gerenciamento de memória
