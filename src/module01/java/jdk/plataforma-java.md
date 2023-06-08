@@ -12,7 +12,10 @@
 ## Máquina Virtual Java
 A motivação por trás da criação do Java foi permitir o desenvolvimento de códigos capazes de serem executados em diversos dispositivos sem a necessidade de recompilá-los:
 
-image here
+<div align="center">
+<img width="500" src="https://github.com/emanoelcampos/java-jre-jdk/assets/68448029/a75139ef-1f9f-4baf-8c70-728e0c13ed49">
+ </div>
+
 
 - Multi-plataforma
 - Gerenciamento de memória
@@ -20,3 +23,7 @@ image here
 - Sandbox
 - Otimizações
 - JIT Commands
+
+## JRE vs JDK
+#### JDK = JRE + ferramentas de desenvolvimento
+#### JRE = JVM + bibliotecas
