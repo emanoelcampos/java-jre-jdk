@@ -1,6 +1,6 @@
 package module06.practicing.conditionals;
 
-public class TestConditionals {
+public class TestIfConditionals {
 
     public static void main(String[] args) {
 
